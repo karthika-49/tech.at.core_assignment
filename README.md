@@ -15,3 +15,5 @@
         <li><strong>Close Readline Interface:</strong> Finally, the readline interface is closed to release the resources.</li>
       <li>Run the command <strong>'npm start'</strong> to start the application and enter the query.</li>
     </ol>
+<h4>Here the picture of MySQL Workbench which includes the excel sheet information in the form of table name Sample</h4>
+<img src="sample.png">
